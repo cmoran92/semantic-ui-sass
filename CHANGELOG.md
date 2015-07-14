@@ -1,3 +1,7 @@
+## 2.0.3
+
+* Update Semantic UI JS and CSS to 2.0.3
+
 ## 1.12.3.0
 
 * Update Semantic UI to 1.12.3
